@@ -1,0 +1,22 @@
+{
+  "name": "section10_nodeasync-await",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app-promises.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lwood54/Section10_NodeAsync-Await.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lwood54/Section10_NodeAsync-Await/issues"
+  },
+  "homepage": "https://github.com/lwood54/Section10_NodeAsync-Await#readme",
+  "dependencies": {
+    "axios": "^0.16.2"
+  }
+}
